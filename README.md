@@ -1,6 +1,6 @@
 # vpnList
 Listado de vpn.
- La idea de este pequeño proyecto es recopilar cierta información hacerca de los servicios de vpn existentes hoy en dia. La idea es dar a conocer ciertos datos de empresas que entregan el servicio de vpn, esto surge a raíz de que por lo general un usuario al momento de conratar un servicio de vpn, este desea entre otras cosas, resguardar su privacidad, siendo muy importante para esto, el pais de origen por ejemplo, esto se debe a que muchos usuarios desean estar alejados del "Five Eyes" (FVEY, link: https://es.wikipedia.org/wiki/Five_Eyes). 
+ La idea de este pequeño proyecto es recopilar cierta información hacerca de los servicios de vpn existentes hoy en dia. La idea es dar a conocer ciertos datos de empresas que entregan el servicio de vpn, esto surge a raíz de que por lo general un usuario al momento de contratar un servicio de vpn, éste desea entre otras cosas, resguardar su privacidad, siendo muy importante para esto, el pais de origen por ejemplo, esto se debe a que muchos usuarios desean estar alejados del "Five Eyes" (FVEY, link: https://es.wikipedia.org/wiki/Five_Eyes). 
 
  ExpressVPN
 
