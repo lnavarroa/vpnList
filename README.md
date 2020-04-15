@@ -142,3 +142,65 @@ OVPN
     Número de ubicaciones de servidores: 
     https://www.ovpn.com/en/about
     País/jurisdicción: Engelbrekts Kyrkogata 7B, 114 26 Stockholm 
+
+Tunnelbear
+https://www.tunnelbear.com/
+
+Hotspot Shield
+https://www.hotspotshield.com/es/
+
+Betternet
+https://www.betternet.co/
+
+VPN Gate
+https://www.vpngate.net/en/
+
+Hola
+https://hola.org/
+
+Surfeasy
+https://www.surfeasy.com/lang/es-ES/
+
+Opera VPN
+https://www.opera.com/es-419/features/free-vpn
+
+Windscribe
+https://esp.windscribe.com/
+
+Hide.me
+https://hide.me/es/
+
+Speedify
+https://speedify.com/
+
+SecurityKISS
+https://securitykiss.com/
+
+ProXPN
+https://secure.proxpn.com/
+
+Avira Phan
+https://www.avira.com/es/free-vpntom
+
+Turbo VPN
+https://www.turbovpn.co/#/views/index
+
+Browsec
+https://browsec.com/en/
+
+VPNBook
+https://www.vpnbook.com/freevpn
+
+DotVPN
+https://dotvpn.com/en/
+
+ProtonVPN
+https://protonvpn.com/
+
+Hideman VPN
+https://www.hideman.net/es/
+
+Try2Catch VPN
+https://try2catch.net/
+
+https://ciberprotector.com/vpn/
