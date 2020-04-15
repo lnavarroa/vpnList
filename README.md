@@ -119,4 +119,26 @@ Hide My Ass
     Número de ubicaciones de servidores: 280
     País/jurisdicción: United Kingdom
     
+Proprivacy
+
+    Número de direcciones IP: 
+    Número de servidores: 
+    Número de ubicaciones de servidores: 
+    https://proprivacy.com/contact-us     
+    País/jurisdicción: United Kingdom    
     
+Mullvad
+
+    Número de direcciones IP: 
+    Número de servidores: 
+    Número de ubicaciones de servidores: 
+    http://xcln5hkbriyklr6n.onion/en/ 		https://mullvad.net/es/
+    País/jurisdicción: Sweden
+
+OVPN
+
+    Número de direcciones IP: 
+    Número de servidores: 
+    Número de ubicaciones de servidores: 
+    https://www.ovpn.com/en/about
+    País/jurisdicción: Engelbrekts Kyrkogata 7B, 114 26 Stockholm 
