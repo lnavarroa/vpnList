@@ -2,7 +2,7 @@
 Listado de vpn.
  La idea de este pequeño proyecto es recopilar cierta información hacerca de los servicios de vpn existentes hoy en dia. La idea es dar a conocer ciertos datos de empresas que entregan el servicio de vpn, esto surge a raíz de que por lo general un usuario al momento de contratar un servicio de vpn, éste desea entre otras cosas, resguardar su privacidad, siendo muy importante para esto, el pais de origen por ejemplo, esto se debe a que muchos usuarios desean estar alejados del "Five Eyes" (FVEY, link: https://es.wikipedia.org/wiki/Five_Eyes). 
 
- ExpressVPN
+1.- ExpressVPN
 
     Número de direcciones: 30,000
     Número de servidores: Más de 3,000
@@ -12,7 +12,7 @@ Listado de vpn.
     Más de 94 países
     
 
- NordVPN
+2.- NordVPN
 
     Número de direcciones IP: 5,000
     Número de servidores: Más de 5,000
@@ -21,7 +21,7 @@ Listado de vpn.
     Más de 60 países 
     
     
-IPVanish VPN
+3.- IPVanish VPN
 
     Número de direcciones IP: Más de 40,000
     Número de servidores: 900
@@ -29,7 +29,7 @@ IPVanish VPN
     País/jurisdicción: Estados Unidos
 
 
-Norton Secure VPN
+4.- Norton Secure VPN
 
     Número de países: 29
     Número de servidores: 1,500
@@ -37,7 +37,7 @@ Norton Secure VPN
     País/jurisdicción: Estados Unidos
     
     
-PureVPN
+5.- PureVPN
 
     Número de direcciones IP: 300,000
     Número de servidores: 2,000
@@ -45,14 +45,14 @@ PureVPN
     País/jurisdicción: Hong Kong
     
     
-Surfshark
+6.- Surfshark
 
     Número de servidores: Más de 800
     Número de ubicaciones de servidores: 50
     País/jurisdicción: Islas Vírgenes Británicas
     
     
-CyberGhost VPN
+7.- CyberGhost VPN
 
     Número de direcciones IP: 2,800 
     Número de servidores: Más de 3,700 en todo el mundo
@@ -60,14 +60,14 @@ CyberGhost VPN
     Servicio de soporte al cliente las 24 horas del día
     
     
-StrongVPN
+8.- StrongVPN
 
     Número de direcciones IP: 59,500
     Número de servidores: Más de 650
     Número de ubicaciones de servidores: 26 países y 46 ciudades
     
     
-Private Internet Access
+9.- Private Internet Access
 
     Número de direcciones IP: No está disponible
     Número de servidores: 3,252
@@ -75,19 +75,19 @@ Private Internet Access
     País/jurisdicción: Estados Unidos
     
     
- Hotspot Shield
+ 10.- Hotspot Shield
 
     Número de direcciones IP: 50,000
     Número de servidores: 2,500
     Número de ubicaciones de servidores: Más de 70
     
     
- Webroot WiFi Security
+ 11.- Webroot WiFi Security
 
     País/jurisdicción: Estados Unidos
     
     
-Buffered VPN
+12.- Buffered VPN
 
     Número de direcciones IP: 11,000
     Número de servidores: 800
@@ -95,7 +95,7 @@ Buffered VPN
     País/jurisdicción: Gibraltar
     
     
-TorGuard
+13.- TorGuard
 
     Número de direcciones IP: No está disponible
     Número de servidores: 1,600
@@ -103,7 +103,7 @@ TorGuard
     País/jurisdicción: Estados Unidos
     
     
-VyprVPN Services
+14.- VyprVPN Services
 
     Número de direcciones IP: Más de 200,000
     Número de servidores: Más de 700
@@ -112,14 +112,14 @@ VyprVPN Services
     Garantía de reembolso de 30 días
     
     
-Hide My Ass
+15.- Hide My Ass
 
     Número de direcciones IP: 3,106
     Número de servidores: 830
     Número de ubicaciones de servidores: 280
     País/jurisdicción: United Kingdom
     
-Proprivacy
+16.- Proprivacy
 
     Número de direcciones IP: 
     Número de servidores: 
@@ -127,7 +127,7 @@ Proprivacy
     https://proprivacy.com/contact-us     
     País/jurisdicción: United Kingdom    
     
-Mullvad
+17.- Mullvad
 
     Número de direcciones IP: 
     Número de servidores: 
@@ -135,7 +135,7 @@ Mullvad
     http://xcln5hkbriyklr6n.onion/en/ 		https://mullvad.net/es/
     País/jurisdicción: Sweden
 
-OVPN
+18.- OVPN
 
     Número de direcciones IP: 
     Número de servidores: 
@@ -143,64 +143,78 @@ OVPN
     https://www.ovpn.com/en/about
     País/jurisdicción: Engelbrekts Kyrkogata 7B, 114 26 Stockholm 
 
-Tunnelbear
+19.- Tunnelbear
 https://www.tunnelbear.com/
 
-Hotspot Shield
+20.- Hotspot Shield
 https://www.hotspotshield.com/es/
 
-Betternet
+21.- Betternet
 https://www.betternet.co/
 
-VPN Gate
+22.- VPN Gate
 https://www.vpngate.net/en/
 
-Hola
+23.- Hola
 https://hola.org/
 
-Surfeasy
+24.- Surfeasy
 https://www.surfeasy.com/lang/es-ES/
 
-Opera VPN
+25.- Opera VPN
 https://www.opera.com/es-419/features/free-vpn
 
-Windscribe
+26.- Windscribe
 https://esp.windscribe.com/
 
-Hide.me
+27.- Hide.me
 https://hide.me/es/
 
-Speedify
+28.- Speedify
 https://speedify.com/
 
-SecurityKISS
+29.- SecurityKISS
 https://securitykiss.com/
 
-ProXPN
+30.- ProXPN
 https://secure.proxpn.com/
 
-Avira Phan
+31.- Avira Phan
 https://www.avira.com/es/free-vpntom
 
-Turbo VPN
+32.- Turbo VPN
 https://www.turbovpn.co/#/views/index
 
-Browsec
+33.- Browsec
 https://browsec.com/en/
 
-VPNBook
+34.- VPNBook
 https://www.vpnbook.com/freevpn
 
-DotVPN
+35.- DotVPN
 https://dotvpn.com/en/
 
-ProtonVPN
+36.- ProtonVPN
 https://protonvpn.com/
 
-Hideman VPN
+37.- Hideman VPN
 https://www.hideman.net/es/
 
-Try2Catch VPN
+38.- Try2Catch VPN
 https://try2catch.net/
 
-https://ciberprotector.com/vpn/
+39.- https://ciberprotector.com/vpn/
+
+40.- https://pritunl.com/ Pritunl, Inc.
+1700 7th Ave Ste 116-211
+Seattle, WA 98101
+
+41.- https://www.cactusvpn.com/vpn-server-locations/ Moldova
+
+42.- https://www.dewvpn.com/  British Virgin Islands
+
+43.- https://www.ivpn.net/status   
+
+44.- https://www.flyvpn.com/es/freetrial     
+
+45.- https://freesslvpn.us/pptp-vpn        
