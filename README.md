@@ -145,45 +145,59 @@ Listado de vpn.
 
 19.- Tunnelbear
 https://www.tunnelbear.com/
+País/jurisdicción:
 
 20.- Hotspot Shield
 https://www.hotspotshield.com/es/
+País/jurisdicción:
 
 21.- Betternet
 https://www.betternet.co/
+País/jurisdicción:
 
 22.- VPN Gate
 https://www.vpngate.net/en/
+País/jurisdicción:
 
 23.- Hola
 https://hola.org/
+País/jurisdicción:
 
 24.- Surfeasy
 https://www.surfeasy.com/lang/es-ES/
+País/jurisdicción:
 
 25.- Opera VPN
 https://www.opera.com/es-419/features/free-vpn
+País/jurisdicción:
 
 26.- Windscribe
 https://esp.windscribe.com/
+País/jurisdicción:
 
 27.- Hide.me
 https://hide.me/es/
+País/jurisdicción:
 
 28.- Speedify
 https://speedify.com/
+País/jurisdicción:
 
 29.- SecurityKISS
 https://securitykiss.com/
+País/jurisdicción:
 
 30.- ProXPN
 https://secure.proxpn.com/
+País/jurisdicción:
 
 31.- Avira Phan
 https://www.avira.com/es/free-vpntom
+País/jurisdicción:
 
 32.- Turbo VPN
 https://www.turbovpn.co/#/views/index
+País/jurisdicción:
 
 33.- Browsec
 https://browsec.com/en/
@@ -209,9 +223,11 @@ https://try2catch.net/
 1700 7th Ave Ste 116-211
 Seattle, WA 98101
 
-41.- https://www.cactusvpn.com/vpn-server-locations/ Moldova
+41.- https://www.cactusvpn.com/vpn-server-locations/ 
+      País/jurisdicción: Moldova
 
-42.- https://www.dewvpn.com/  British Virgin Islands
+42.- https://www.dewvpn.com/  
+     País/jurisdicción: British Virgin Islands
 
 43.- https://www.ivpn.net/status   
 
